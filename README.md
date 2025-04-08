@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm **Shields Riggs Jr.**, a Master of Business Analytics 
 
 ---
 
-## 🤝 Connecting
+## Connecting 🤝
 
 Take a look at some of my repositories to explore my work. If you're interested in **data-driven business solutions**—or just want to connect—feel free to reach out.
 Let’s explore how **data can shape your business** and drive innovative solutions.
