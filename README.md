@@ -1,7 +1,4 @@
-## Hey There 👋
-
-# Shields Riggs Jr.
-
+# Bio 👨‍💻
 Welcome to my GitHub! I'm **Shields Riggs Jr.**, a Master of Business Analytics (MSBA) candidate at **William & Mary**. This space highlights my journey through data and analytics as I work to deliver meaningful insights across a range of projects and industries.
 
 ---
