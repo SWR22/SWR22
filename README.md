@@ -41,11 +41,11 @@ Welcome to my GitHub! I'm **Shields Riggs Jr.**, a recent Master of Business Ana
 - **Currently searching for New Ideas/Opportunities**  
 
 ### ✅ Completed
-- **Virginia’s GDP Analysis**  
+- **From Data to Development: Virginia’s Regional GDP Analysis**  
   A deep-dive into Virginia's economic trends using statistical and visual techniques to uncover insights.
   
-- **AI Recommenders**  
-  Developing intelligent systems that personalize user experiences based on data and behavior.
+- **Bias in AI Recommender Systems**  
+  Displaying biases that occur in business intelligent systems that personalize user experiences based on data and behavior.
   
 - **Toxic Tides: Plastic's Effect on the Ocean**
   Interactive dashboards designed to enhance clarity and impact by analyzing the effects of plastic debris on ocean health
