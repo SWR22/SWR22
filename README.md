@@ -46,6 +46,9 @@ Welcome to my GitHub! I'm **Shields Riggs Jr.**, a recent Master of Business Ana
   
 - **AI Recommenders**  
   Developing intelligent systems that personalize user experiences based on data and behavior.
+  
+- **Toxic Tides: Plastic's Effect on the Ocean**
+  Interactive dashboards designed to enhance clarity and impact by analyzing the effects of plastic debris on ocean health
 ---
 
 ## 🤝 Connecting
