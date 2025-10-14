@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm **Shields Riggs Jr.**, a recent Master of Business Ana
 
 ## 📌 Areas of Interest
 
-- **📈 Business Solutions**  
+- **🧩 Business Solutions**  
   I enjoy solving complex problems that lead to impactful solutions, helping businesses grow and better understand their operations.
 
 - **📈 Strategic Finance & Investment Analysis**  
